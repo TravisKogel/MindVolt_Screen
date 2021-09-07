@@ -108,6 +108,7 @@
 @media (max-width:1300px){
   .banner{
     height:330px;
+    border-top:10px solid;
     background-size:contain;
   }
   .banner-title:first-child{
@@ -147,6 +148,7 @@
   .banner{
     border-top:5px solid;
     height:200px;
+    background-size:cover;
   }
   .banner span, .banner p, .card {
     padding-left: 6px;
