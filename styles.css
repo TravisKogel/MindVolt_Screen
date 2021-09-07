@@ -146,7 +146,7 @@
 @media (max-width:420px){
   .banner{
     border-top:5px solid;
-    height:180px;
+    height:200px;
   }
   .banner span, .banner p, .card {
     padding-left: 6px;
